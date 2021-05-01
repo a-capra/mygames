@@ -2,7 +2,7 @@
 
 Downloaded from http://inventwithpython.com/pygame
 
-Requires pygame
+Requires [pygame](https://pypi.org/project/pygame/)
 
 ```
 pip install pygame
